@@ -1,0 +1,23 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "JavaScript training. Language Translator",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiernuber/platzom.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Javier Núñez Berrocoso <javiernuber@gmail.com> (http://atomicposts.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javiernuber/platzom/issues"
+  },
+  "homepage": "https://github.com/javiernuber/platzom#readme"
+}
